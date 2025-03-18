@@ -1,0 +1,10 @@
+SpeechRecognition
+pipwin
+pyaudio
+gTTS
+google-generativeai
+python-dotenv
+streamlit
+setuptools
+
+-e . #to execute installation of local pages in all the folders which have that __init__.py file
